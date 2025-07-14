@@ -25,8 +25,8 @@ Certifique-se de ter instalado:
 ### 1. Clone o repositório principal (monorepo)
 
 ```bash
-git clone https://github.com/joaovitorcorrea06/rilix-teste-infra.git
-cd rilix-teste-infra
+git clone https://github.com/joaovitorcorrea06/rilix-teste-completo.git
+cd rilix-teste-completo
 ```
 
 ---
@@ -57,7 +57,7 @@ cd ..
 
 ## 🐳 Rodar o Projeto com Docker
 
-Na raiz do projeto (`rilix-teste-infra/`), execute:
+Na raiz do projeto (`rilix-teste-completo/`), execute:
 
 ```bash
 docker-compose up --build
